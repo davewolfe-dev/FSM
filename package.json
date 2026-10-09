@@ -1,0 +1,13 @@
+{
+  "name": "dev.davewolfe.fsm",
+  "displayName": "FSM",
+  "version": "1.0.0",
+  "unity": "2021.0",
+  "unityRelease": "1f1",
+  "description": "A finite state machine for Unity",
+  "author": {
+    "name": "Dave Wolfe",
+    "url": "https://www.davewolfe.dev",
+    "email": "dave@davewolfe.dev"
+  }
+}

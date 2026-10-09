@@ -1,0 +1,16 @@
+{
+    "name": "FSMExample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:438074495efc1254d8b9852517103ed7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
