@@ -5,6 +5,7 @@
   "unity": "2021.0",
   "unityRelease": "1f1",
   "description": "A finite state machine for Unity",
+  "license": "MIT",
   "author": {
     "name": "Dave Wolfe",
     "url": "https://www.davewolfe.dev",
