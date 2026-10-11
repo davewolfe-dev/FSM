@@ -67,3 +67,6 @@ crashlytics-build.properties
 
 #apple
 .DS_Store
+
+# upm license meta
+/LICENSE.meta
